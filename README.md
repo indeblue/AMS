@@ -14,6 +14,7 @@ Only Registered ones are able to login through this portal , else Login failed d
 ![](screenshots/2020-05-18%20(1).png) <br>
 
 ![](screenshots/2020-05-18%20(10).png)<br>
+![](screenshots/2020-05-12%20(8).png)<br>
 ![](screenshots/2020-05-18%20(12).png)<br>
 # To Run the project
 Follow the below steps:<br>
