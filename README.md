@@ -4,7 +4,7 @@ Attendance Management System
 This web portal can help one to take attendance of the student and save the data in the database.<br>
 Further , Student can login to see his/her attendance.<br>
 Also faculty have an option to Download the attendance.<br>
-Only Registered ones are able to login through this portal , else Login failed displayed!!<br>
+Only Registered ones are able to login through this portal , else Login failed displayed!<br>
 ..........................................................................................................................................<br>
 
 
